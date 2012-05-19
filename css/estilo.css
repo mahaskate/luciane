@@ -1,0 +1,60 @@
+body
+{background-color:#fffbd8;
+background-image:url(../img/bg-top_mini.jpg);
+background-position:top center;
+background-attachment:fixed;
+background-repeat:no-repeat;
+}
+.txt-pesquisar, txt-pesquisar.button
+{
+	height:35px;
+}
+/*TOP BAR*/
+.topo
+{
+	width:100%;
+	height:150px;
+	margin-bottom:30px;
+}
+.well2
+{
+	background-color:#F9F9F9;
+	border: 1px solid #ddd;
+}
+h1,h2,h3,h4,h5,h6
+{
+	font-family:Arial, Helvetica, sans-serif;
+}
+.cinza
+{
+	font-weight:normal;
+	color:#666;
+}
+.preto
+{
+	color:#000;
+}
+.share-bar
+{
+	width:100%;
+	background-color:#0033FF;
+}
+.mini-top
+{
+	background-image:url(../img/bg-mini-top.png);
+	background-repeat:repeat-x;
+	background-position:top left;
+	z-index:99;
+	height:45px;
+	padding-right:0;
+	padding:10px 0 10px 0;
+}
+.back-top
+{
+	display:none;
+	right:0;
+	bottom:0;
+	margin-bottom:-5px;
+	margin-right:2px;
+	position:fixed;
+}

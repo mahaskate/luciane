@@ -1,0 +1,34 @@
+Gmail
+login: patricinhasezumbis
+senha: papatinha1gmail3
+
+Gmail
+login: travism182
+senha: papatinha1gmail3
+
+
+Twitter
+Patricinhas e zumbis
+@patyzumbi
+login:patricinhasezumbis@gmail.com
+Senha: papatinha1tw3
+
+Travis Miller
+@fancyfabulous
+login: @gmail.com
+Senha: papatinha1tw3
+
+Facebook loga com conta do patricinhas
+login:patricinhasezumbis@gmail.com
+senha:papatinha1fb3
+
+Github
+PASSPHRASE: zumbi
+
+phpfog
+BANCO DE DADOS
+Server: mysql-shared-02.phpfog.com
+User: Custom App-37185
+Senha: paty123
+
+http://www.facebook.com/pages/Patricinhas-e-Zumbis/360222197361260

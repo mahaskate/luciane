@@ -1,0 +1,7 @@
+RewriteEngine on
+
+RewriteRule ^pagina/([0-9]+)/?$ /index.php?pg=$1 [NC]
+RewriteRule ^post/([0-9]+)/?$ /post.php?s=$1 [NC]
+RewriteRule ^aleatorio/?$ /index.php?aleatorio=1 [NC,L]
+ErrorDocument 404 /404.php
+RewriteRule ^404/?$ /404.php [NC,L]
